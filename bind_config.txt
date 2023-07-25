@@ -1,1 +1,1 @@
-hasoon.test.alhassan.dev.	1	IN	CNAME
+www.example.com. 300 IN A 127.0.0.1
