@@ -1,1 +1,1 @@
-www.example.com. 300 IN A 127.0.0.1
+www.example.com. 300 IN A 104.128.55.121
